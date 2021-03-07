@@ -1,3 +1,4 @@
+#!/usr/local/bin/python
 # Network Watchdog to reebot TrueNAS if Realtek card shits the bed
 # Test connection every period seconds
 # If connection down, try again after an exponential backoff period.
